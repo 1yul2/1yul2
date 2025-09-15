@@ -4,6 +4,13 @@
 
 ---
 
+## 💡 자기소개 (About Me)
+
+- 👨‍💻 **Polyglot Developer** – 여러 언어와 프레임워크로 프로젝트를 개발합니다.
+- 🚀 **Developing the Project Called Life** – 인생이라는 프로젝트를 개발 중입니다.
+
+---
+
 ## ⚙️ 기술스택 (Tech Stack)
 
 ### 🔗 언어 (Languages)
@@ -47,10 +54,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=1yul2&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1yul2&layout=compact&theme=radical" height="150"/>
 </p>
-
----
-
-## 💡 자기소개 (About Me)
-
-- 👨‍💻 **Polyglot Developer** – 여러 언어와 프레임워크로 프로젝트를 개발합니다.
-- 🚀 **Developing the Project Called Life** – 인생이라는 프로젝트를 개발 중입니다.
