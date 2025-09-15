@@ -6,6 +6,8 @@
 
 ## 💡 자기소개 (About Me)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=11&pause=1000&color=FFBCFD&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Polyglot+Developer+%E2%80%93+%EC%97%AC%EB%9F%AC+%EC%96%B8%EC%96%B4%EC%99%80+%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC+%EA%B0%9C%EB%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4.+;%F0%9F%9A%80+Developing+the+Project+Called+Life+%E2%80%93+%EC%9D%B8%EC%83%9D%EC%9D%B4%EB%9D%BC%EB%8A%94+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC+%EA%B0%9C%EB%B0%9C+%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+
 - 👨‍💻 **Polyglot Developer** – 여러 언어와 프레임워크로 프로젝트를 개발합니다.
 - 🚀 **Developing the Project Called Life** – 인생이라는 프로젝트를 개발 중입니다.
 
