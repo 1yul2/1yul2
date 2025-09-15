@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Polyglot%20Developer&desc=Developing%20the%20project%20called%20Life.&descSize=-7&descAlignY=65&textBg=false&animation=fadeIn&fontColor=FFF8E1"/>
 </p>
 
-
+⚙️ 기술스택 (Tech Stack)
 
 
 <!--
