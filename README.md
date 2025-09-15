@@ -49,10 +49,9 @@
 
 ---
 
-## 📊 깃허브 통계 (GitHub Stats)
+## 📊 통계 (Stats)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1yul2&show_icons=true&theme=radical" height="150"/>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1yul2)](https://solved.ac/1yul2) <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=1yul2&show_icons=true&theme=radical" height="150"/> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1yul2&layout=compact&theme=radical" height="150"/>
 </p>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1yul2)](https://solved.ac/1yul2)
