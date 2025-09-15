@@ -50,15 +50,19 @@
 ---
 
 ## 📊 통계 (Stats)
-<p align="center">
-  <!-- Solved.ac 뱃지 -->
-  <a href="https://solved.ac/1yul2">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1yul2" height="150"/>
-  </a>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=1yul2&show_icons=true&theme=radical" height="150"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1yul2&layout=compact&theme=radical" height="150"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://solved.ac/1yul2">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1yul2" height="150"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=1yul2&show_icons=true&theme=radical" height="150"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1yul2&layout=compact&theme=radical" height="150"/>
+    </td>
+  </tr>
+</table>
