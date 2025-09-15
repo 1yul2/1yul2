@@ -50,11 +50,15 @@
 ---
 
 ## 📊 통계 (Stats)
+<p align="center">
+  <!-- Solved.ac 뱃지 -->
+  <a href="https://solved.ac/1yul2">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1yul2" height="150"/>
+  </a>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1yul2)](https://solved.ac/1yul2)
-<p align="left">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=1yul2&show_icons=true&theme=radical" height="150"/>
-</p>
-<p align="left">
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1yul2&layout=compact&theme=radical" height="150"/>
 </p>
