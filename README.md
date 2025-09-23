@@ -56,7 +56,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://solved.ac/1yul2">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1yul2" height="150"/>
       </a>
     </td>
